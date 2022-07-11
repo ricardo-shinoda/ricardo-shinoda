@@ -7,10 +7,6 @@ I'm Ricardo, this is me writing code 🖥️
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardo-shinoda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
- <div>
-  [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda)](https://github.com/anuraghazra/github-readme-stats)
- </div>
  
   
   <div style="display: inline_block"><br>
@@ -18,8 +14,13 @@ I'm Ricardo, this is me writing code 🖥️
   <img align="center" alt="Ricardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div><br>
   
+  
+
+ 
+   [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
   <br>
