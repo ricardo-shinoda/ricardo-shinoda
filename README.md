@@ -28,7 +28,7 @@
    [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  <h4> I can reach me at: </h4>
+  <h4> You can reach me at: </h4>
 
   <div> 
   <a href="https://www.linkedin.com/in/ricardoshinoda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
