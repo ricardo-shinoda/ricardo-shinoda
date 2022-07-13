@@ -1,5 +1,5 @@
 # Welcome to my page!
-I'm Ricardo, this is me writing code 🖥️
+<h4>I'm Ricardo, this is me writing code 🖥️</h4>
 
 
   <div align="center">
@@ -8,7 +8,7 @@ I'm Ricardo, this is me writing code 🖥️
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-  I've been coding with: 
+  <h4> I've been coding with: </h4>
   <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
@@ -28,8 +28,8 @@ I'm Ricardo, this is me writing code 🖥️
    [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda)](https://github.com/anuraghazra/github-readme-stats)
 
 
- 
-  <br>
+  <h4> I can reach me at: </h4>
+
   <div> 
   <a href="https://www.linkedin.com/in/ricardoshinoda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ricardoshinoda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
