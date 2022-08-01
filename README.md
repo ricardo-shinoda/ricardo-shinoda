@@ -9,7 +9,7 @@
 </div><br>
 
  
-   [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda)](https://github.com/anuraghazra/github-readme-stats)
+ <!--  [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda)](https://github.com/anuraghazra/github-readme-stats) -->
 
    <h4> I've been coding front-end with: </h4>
   <div style="display: inline_block"><br>
