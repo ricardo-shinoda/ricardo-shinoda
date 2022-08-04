@@ -22,7 +22,8 @@
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     <!--   <h4> I've been coding back-end with: </h4> -->
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png" />
-    
+   
+   <h4> And I've been using this tools: </h4>  
 
 <!--   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://raw.githubusercontent.com/wesbos/Font-Awesome-Docker-Icon/07fb62ca1b8dea97b351d89686bb32418735182d/docker-white.svg" /> -->
     
