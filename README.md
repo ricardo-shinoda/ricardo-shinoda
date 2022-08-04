@@ -13,7 +13,6 @@
 
    <h4> I've been coding with: </h4>
   <div style="display: inline_block">
-  <img align="center" alt="Ricardo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Ricardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +20,7 @@
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><br>
     <h4> And I've been using this tools: </h4>
+    <img align="center" alt="Ricardo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png" />
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
    
