@@ -18,7 +18,9 @@
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><br>
+  <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Ricardo-node" height="30" width="40" src="https://www.svgrepo.com/show/255832/sql.svg" />
+    <br>
     <h4> And I've been using this tools: </h4>
     <img align="center" alt="Ricardo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png" />
