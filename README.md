@@ -28,6 +28,8 @@
    
    
 <img align="center" alt="Ricardo-node" height="30" width="40" src="https://raw.githubusercontent.com/wesbos/Font-Awesome-Docker-Icon/07fb62ca1b8dea97b351d89686bb32418735182d/docker-white.svg" />
+
+<a href="http://www.github.com/ricardo-shinoda"><img src="https://activity-graph.herokuapp.com/graph?username=ricardo-shinoda&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
     
     
 
