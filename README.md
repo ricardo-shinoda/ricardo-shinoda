@@ -28,9 +28,9 @@
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png" />
   <img align="center" alt="Ricardo-node" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
    
-   
+<!--    
 <img align="center" alt="Ricardo-node" height="30" width="40" src="https://raw.githubusercontent.com/wesbos/Font-Awesome-Docker-Icon/07fb62ca1b8dea97b351d89686bb32418735182d/docker-white.svg" />
-
+ -->
 
     
     
