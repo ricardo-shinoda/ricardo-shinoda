@@ -11,7 +11,7 @@
  
 <!--  [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
   
-  <a href="http://www.github.com/ricardo-shinoda"><img src="https://activity-graph.herokuapp.com/graph?username=ricardo-shinoda&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--   <a href="http://www.github.com/ricardo-shinoda"><img src="https://activity-graph.herokuapp.com/graph?username=ricardo-shinoda&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
    <h4> I've been coding with: </h4>
   <div style="display: inline_block">
