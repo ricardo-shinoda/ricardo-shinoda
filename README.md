@@ -39,7 +39,7 @@
     
     
 
-</div><br>
+<!-- </div><br>
 
   <h4> You can reach me at: </h4>
 
@@ -49,4 +49,4 @@
   <a href="https://www.instagram.com/ricardo.shinoda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 
-</div>
+</div> -->
