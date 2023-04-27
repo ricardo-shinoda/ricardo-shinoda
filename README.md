@@ -1,5 +1,5 @@
 # Welcome to my page!
-<h4>I'm Ricardo, this is me writing code 🖥️</h4>
+<h4>This is me writing code 🖥️</h4>
 
 
   <div align="center">
