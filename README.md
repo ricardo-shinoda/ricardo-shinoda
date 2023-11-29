@@ -14,9 +14,6 @@
 
   
 </div><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&layout=compact&langs_count=7&theme=dark)
-
-
  
 <!--  [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
   
