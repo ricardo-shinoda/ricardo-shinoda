@@ -9,9 +9,7 @@
   <br>
   <a href="https://github.com/ricardo-shinoda">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
-
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-shinoda&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-shinoda&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)/>
   </a>
 </div>
 
