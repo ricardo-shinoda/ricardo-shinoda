@@ -1,15 +1,15 @@
 <!-- # Welcome to my page! -->
 <h4>This is me writing code 🖥️</h4>
 
-
-  <div align="center">
+<div align="center">
   <a href="https://github.com/ricardo-shinoda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardo-shinoda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardo-shinoda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+  <br>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&layout=compact&langs_count=7&theme=dark)
-
-
 </div><br>
+
 
  
 <!--  [![Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardo_shinoda&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
