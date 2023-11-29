@@ -9,7 +9,7 @@
   <br>
   <a href="https://github.com/ricardo-shinoda">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&langs_count=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-shinoda&langs_count=10&theme=algolia"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-shinoda&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true"/>
   </a>
 </div>
