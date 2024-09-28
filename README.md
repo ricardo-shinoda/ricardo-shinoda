@@ -1,6 +1,5 @@
 <!-- # Welcome to my page! -->
-<h2>This is me writing code 🖥️</h2>
-
+<h2>This is me writing code 🖥️ ⌨</h2>
 <div align="center">
   <a href="https://github.com/ricardo-shinoda">
 <!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardo-shinoda&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/> -->
